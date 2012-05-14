@@ -30,5 +30,6 @@ Known bugs :
 -ArrayIndexOutOfBoundsException : -1 for the method "actualiser".
 
 TODO :
--corrected known bugs.
--complete object "modifieur" for modifying info of a selected mp3.
+-correct known bugs.
+-improve management of exceptions
+-complete object "modifier" for modifying info of a selected mp3.
