@@ -6,6 +6,7 @@ kind of database : MySQL.
 Description:
 Client written in JAVA for adding mp3 info in a database(artist, tag (comments), kind, album, year, title) and adding the mp3 himself on a filesystem.
 Design Pattern : MVC.
+Dependancy : java_mp3.jar
 
 Database's tables entries :
 
