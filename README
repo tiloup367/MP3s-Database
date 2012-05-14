@@ -1,0 +1,34 @@
+***Application for personal use***
+Alpha version.
+Client written in JAVA.
+kind of database : MySQL.
+
+Description:
+Client written in JAVA for adding mp3 info in a database(artist, tag (comments), kind, album, year, title) and adding the mp3 himself on a filesystem.
+Design Pattern : MVC.
+
+Database's tables entries :
+
+Table "users" :
+-name
+-password
+
+Table "homes" :
+-name
+-home
+
+Table "musics" :
+-home
+-tag
+-title
+-artist
+-kind
+-album
+-year
+
+Known bugs :
+-ArrayIndexOutOfBoundsException : -1 for the method "actualiser".
+
+TODO :
+-corrected known bugs.
+-complete object "modifieur" for modifying info of a selected mp3.
