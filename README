@@ -31,4 +31,5 @@ Known bugs :
 
 TODO :
 -corrected known bugs.
+-improve management of exceptions
 -complete object "modifieur" for modifying info of a selected mp3.
